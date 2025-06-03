@@ -2,7 +2,9 @@
 layout: default
 ---
 
-<h1>Welcome to My Philosophy Blog</h1>
+<h1>Welcome to Bathtub Thoughts With No Bathtub</h1>
+<p>Rambles on the edge of a thought</p>
+
 <div class="post-grid">
   {% for post in site.posts %}
     <div class="post-card">
@@ -13,25 +15,3 @@ layout: default
     </div>
   {% endfor %}
 </div>
-
-<style>
-.post-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-  gap: 20px;
-}
-.post-card {
-  border: 1px solid #ddd;
-  border-radius: 8px;
-  overflow: hidden;
-}
-.post-card img {
-  width: 100%;
-  height: auto;
-  display: block;
-}
-.post-card h2 {
-  padding: 10px;
-  font-size: 1.2em;
-}
-</style>
