@@ -1,0 +1,47 @@
+body {
+  font-family: 'Georgia', serif;
+  background-color: #fffaf6;
+  color: #2e2e2e;
+  margin: 0;
+  padding: 2em;
+}
+
+a {
+  color: #8b5e3c;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+h1, h2 {
+  font-family: 'Georgia', serif;
+}
+
+.post-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 30px;
+}
+
+.post-card {
+  border: 1px solid #e0dcd6;
+  border-radius: 12px;
+  overflow: hidden;
+  background: #fff;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+}
+
+.post-card img {
+  width: 100%;
+  height: auto;
+}
+
+.post-card h2 {
+  padding: 1em;
+  font-size: 1.2em;
+}
+
+Add custom styles
