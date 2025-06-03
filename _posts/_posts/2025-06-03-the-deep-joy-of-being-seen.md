@@ -2,7 +2,7 @@
 layout: post
 title: "The Deep Joy of Being Seen: Why We Love Performing for Others"
 date: 2025-06-03
-image: /assets/images/deep-joy.png
+image: /assets/images/uepf profile.png
 ---
 
 There’s a certain electric thrill that comes with performing — not just the movement or the music, but the moment when eyes are on you, when your body speaks before your voice does, and when you show someone something you’ve created or mastered. Whether it's a dance, a piece of music, a story, or even a wild skateboard trick — humans are wired to share these moments. We don’t just want to create; we want to be witnessed.
