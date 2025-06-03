@@ -1,0 +1,7 @@
+title: My Philosophy Blog
+description: Reflections on life with photos
+baseurl: "" # no subdirectory
+url: "https://yourusername.github.io"
+theme: minima
+plugins:
+  - jekyll-feed
